@@ -12,6 +12,10 @@ feature_image_dark: /assets/NIME2025_background_dark.png
 </div>
 
 {: .info-box}
+This is the archived site for NIME2025, you can find information about the current edition of [NIME here](https://nime.org).
+
+The archived videos for NIME2025 can be found here: <https://doi.org/10.5281/zenodo.17972009>.
+
 That is it - thank you for joining NIME2025 - hope to see you next year in [London](https://nime2026.org/)!
 
 ## About NIME2025
